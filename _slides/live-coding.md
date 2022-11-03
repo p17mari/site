@@ -14,5 +14,6 @@ slides:
   - xerox-bravo
   - xerox-gypsy
   - squeakos
+  - agentcubes
 ---
 
