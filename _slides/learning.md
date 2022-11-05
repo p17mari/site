@@ -27,4 +27,6 @@ slides:
   - learntomod
   - hackathon
   - hackerspace
+  - lego-mindstorms
+  - AgentCubes
 ---
