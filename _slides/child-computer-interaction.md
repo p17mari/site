@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: Τεχνολογίες για παιδιά
-image_url: /images/AgentCubes-thumb.jpg
+image_url: https://github.com/XorisOnoma/images/AgentCubes-thumb.jpg
 caption: Η επαφή του υπολογιστή με τα παιδιά -και ως Hardware και ως software- είναι ένα ανερχόμενο πεδίο πληροφορικής κάτω άπο την ομπρέλα του Human Computer Interaction γνωστό και ώς Child–Computer Interaction.
 slides:
   - logo-robot 
