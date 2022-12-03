@@ -13,4 +13,5 @@ tags:
   - Atari 
 ---
 
+{% include bio-laurel.md %}
 
