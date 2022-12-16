@@ -14,5 +14,5 @@ slides:
   - olpc-classroom
   - sugar-neighborhood
   - lego-mindstorms
-  - AgentCubes
+  - agentcubes
 ---
