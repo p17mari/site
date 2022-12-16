@@ -1,7 +1,7 @@
 ---
 layout: timeline
 title: Επικοινωνία Παιδιού-υπολογιστή
-image_url: /images/lego-mindstorms.jpg
+image_url: /images/legomindstorms.jpg
 caption: Η επαφή του υπολογιστή με τα παιδιά -και ως Hardware και ως software- είναι ένα ανερχόμενο πεδίο πληροφορικής κάτω άπο την ομπρέλα του Human Computer Interaction γνωστό και ώς Child–Computer Interaction.
 slides:
   - logo-robot 
